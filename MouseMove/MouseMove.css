@@ -1,0 +1,15 @@
+body {
+    position:relative;
+    background-color: black;
+}
+h1 {
+    color: #fff;
+}
+.cursor_item {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    background-color: red;
+    top:0;
+    left:0;
+}
